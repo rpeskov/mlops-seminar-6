@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.git/
+solution/
+predictions.csv
